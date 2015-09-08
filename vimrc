@@ -1,5 +1,6 @@
 set bg=dark
 set nocompatible
+set modeline
 filetype off
 set pastetoggle=<f5>
 set viminfo='50,<2000,s100,h
