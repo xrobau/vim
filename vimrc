@@ -10,6 +10,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 Plugin 'pangloss/vim-javascript'
+Plugin 'pearofducks/ansible-vim'
 call vundle#end()
 
 filetype plugin indent on 
