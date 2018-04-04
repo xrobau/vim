@@ -1,4 +1,5 @@
 set bg=dark
+set encoding=utf-8
 set nocompatible
 set modeline
 filetype off
